@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="BBH_AccessControl_Api,BBH_AccessControl_Impl,compugain-api,compugain-impl,search-api,search-impl,compugain,bbhaccesscontrol-api,bbhaccesscontrol-impl" />
+  </component>
+</project>
